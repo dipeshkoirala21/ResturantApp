@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "28042068618",
+    "firebase_url": "https://resturantapp-5eb3a.firebaseio.com",
+    "project_id": "resturantapp-5eb3a",
+    "storage_bucket": "resturantapp-5eb3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28042068618:android:97d73f0fdcb287c1",
+        "android_client_info": {
+          "package_name": "com.example.orcode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28042068618-vf4k5471sn2nh3gonttv7bp9982h4ja3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.orcode",
+            "certificate_hash": "d706e0f9b946e731f43bce0b9e2598aa7b718bc0"
+          }
+        },
+        {
+          "client_id": "28042068618-ghop23jjj0k0jqhfm0lris4qvtc1t1ag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK7gaVNp05ZtHYQom1pTUQ83s8s4lSC0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "28042068618-ghop23jjj0k0jqhfm0lris4qvtc1t1ag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
